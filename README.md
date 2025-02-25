@@ -6,8 +6,9 @@ This study concentrates on evaluating the efficacy of Large Language Models (LLM
 
 <img src='https://github.com/McJackTang/LLM-HealthAssistant/blob/main/figs/framework.png' width = 100% height = 100%/>
 
-# Data
-```Demo_data
+# Dataset ([OPENSOURCE](https://github.com/McJackTang/LLM-HealthAssistant/tree/main/demo_data))
+```
+ALPHA
 ├── light_1        # sceneario 
     ├── v01        # subject 
         ├── BVP.csv       # PPG waveform signal, 20fps    
